@@ -9,14 +9,17 @@
     "violet650": "#44296a",
     "violet600": "#563587",
     "violet500": "#7449b5",
+    "bgDeep": "#170b26",
+    "bgMid": "#221237",
+    "bgTop": "#2c1944",
     "pink700": "#b53c8a",
     "pink600": "#cc4f9a",
     "pink500": "#e05cab",
     "pink400": "#ef78bf",
-    "orchid500": "#8d5cc9",
-    "orchid600": "#7b4fb2",
-    "planPink": "#f6a9d8",
-    "planPinkLight": "#ca5fa0",
+    "orchid500": "#8f60c9",
+    "orchid600": "#7d54b4",
+    "planPink": "#f2b0db",
+    "planPinkLight": "#d67ab3",
     "rose500": "#f072b0",
     "blue500": "#58a6ff",
     "green500": "#6edb8f",
@@ -69,15 +72,15 @@
       "light": "lightMuted"
     },
     "background": {
-      "dark": "violet900",
+      "dark": "bgDeep",
       "light": "lightBg"
     },
     "backgroundPanel": {
-      "dark": "violet850",
+      "dark": "bgMid",
       "light": "lightPanel"
     },
     "backgroundElement": {
-      "dark": "violet800",
+      "dark": "bgTop",
       "light": "lightElement"
     },
     "border": {
@@ -89,7 +92,7 @@
       "light": "pink700"
     },
     "borderSubtle": {
-      "dark": "violet700",
+      "dark": "#41255f",
       "light": "#e6c8fb"
     },
     "diffAdded": {
