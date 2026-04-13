@@ -29,16 +29,16 @@
   },
   "theme": {
     "primary": {
-      "dark": "pink500",
-      "light": "pink700"
-    },
-    "secondary": {
       "dark": "violet500",
       "light": "violet600"
     },
+    "secondary": {
+      "dark": "violet600",
+      "light": "violet700"
+    },
     "accent": {
-      "dark": "pink400",
-      "light": "rose500"
+      "dark": "pink600",
+      "light": "pink700"
     },
     "error": {
       "dark": "red500",
@@ -81,8 +81,8 @@
       "light": "#d9b2f6"
     },
     "borderActive": {
-      "dark": "pink500",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "borderSubtle": {
       "dark": "violet700",
@@ -141,8 +141,8 @@
       "light": "lightText"
     },
     "markdownHeading": {
-      "dark": "pink400",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "markdownLink": {
       "dark": "blue500",
@@ -153,8 +153,8 @@
       "light": "#2258a6"
     },
     "markdownCode": {
-      "dark": "#f5a7d2",
-      "light": "#9a2e70"
+      "dark": "#cfb3ff",
+      "light": "#6d3f9a"
     },
     "markdownBlockQuote": {
       "dark": "textDim",
@@ -165,16 +165,16 @@
       "light": "#a56a00"
     },
     "markdownStrong": {
-      "dark": "pink500",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "markdownHorizontalRule": {
       "dark": "violet600",
       "light": "#c89ae9"
     },
     "markdownListItem": {
-      "dark": "pink400",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "markdownListEnumeration": {
       "dark": "violet500",
@@ -185,8 +185,8 @@
       "light": "violet600"
     },
     "markdownImageText": {
-      "dark": "pink500",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "markdownCodeBlock": {
       "dark": "textMuted",
@@ -197,16 +197,16 @@
       "light": "#8d70a7"
     },
     "syntaxKeyword": {
-      "dark": "pink500",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "syntaxFunction": {
       "dark": "#bc9cff",
       "light": "violet600"
     },
     "syntaxVariable": {
-      "dark": "#f7b5db",
-      "light": "#a63f7f"
+      "dark": "#d0b4ff",
+      "light": "#6f3d9c"
     },
     "syntaxString": {
       "dark": "#8decae",
@@ -221,8 +221,8 @@
       "light": "#245cb0"
     },
     "syntaxOperator": {
-      "dark": "pink400",
-      "light": "pink700"
+      "dark": "violet500",
+      "light": "violet600"
     },
     "syntaxPunctuation": {
       "dark": "textMain",
