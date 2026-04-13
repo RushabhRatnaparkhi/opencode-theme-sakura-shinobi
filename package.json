@@ -1,0 +1,24 @@
+{
+  "name": "@rushabhratnaparkhi/opencode-theme-sakura-shinobi",
+  "version": "1.3.0",
+  "description": "Sakura Shinobi theme for OpenCode",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RushabhRatnaparkhi/opencode-theme-sakura-shinobi.git"
+  },
+  "homepage": "https://github.com/RushabhRatnaparkhi/opencode-theme-sakura-shinobi#readme",
+  "files": [
+    "sakura-shinobi.json",
+    "README.md"
+  ],
+  "keywords": [
+    "opencode",
+    "theme",
+    "sakura",
+    "shinobi"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
