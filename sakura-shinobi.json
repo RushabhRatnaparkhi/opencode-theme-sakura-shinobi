@@ -16,7 +16,7 @@
     "rose500": "#f072b0",
     "blue500": "#58a6ff",
     "green500": "#6edb8f",
-    "amber500": "#ffbf66",
+    "amber500": "#f6a9d8",
     "red500": "#ff6f91",
     "textMain": "#f6efff",
     "textMuted": "#cbb7e6",
@@ -162,7 +162,7 @@
     },
     "markdownEmph": {
       "dark": "amber500",
-      "light": "#a56a00"
+      "light": "#b85393"
     },
     "markdownStrong": {
       "dark": "violet500",
@@ -213,8 +213,8 @@
       "light": "#197748"
     },
     "syntaxNumber": {
-      "dark": "#ffc786",
-      "light": "#9b5d00"
+      "dark": "#f7b7df",
+      "light": "#a24584"
     },
     "syntaxType": {
       "dark": "#8bc2ff",
