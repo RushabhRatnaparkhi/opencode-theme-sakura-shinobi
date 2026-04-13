@@ -13,6 +13,10 @@
     "pink600": "#cc4f9a",
     "pink500": "#e05cab",
     "pink400": "#ef78bf",
+    "orchid500": "#8d5cc9",
+    "orchid600": "#7b4fb2",
+    "planPink": "#f6a9d8",
+    "planPinkLight": "#ca5fa0",
     "rose500": "#f072b0",
     "blue500": "#58a6ff",
     "green500": "#6edb8f",
@@ -29,8 +33,8 @@
   },
   "theme": {
     "primary": {
-      "dark": "violet500",
-      "light": "violet600"
+      "dark": "orchid500",
+      "light": "orchid600"
     },
     "secondary": {
       "dark": "violet600",
@@ -45,8 +49,8 @@
       "light": "red500"
     },
     "warning": {
-      "dark": "amber500",
-      "light": "amber500"
+      "dark": "planPink",
+      "light": "planPinkLight"
     },
     "success": {
       "dark": "green500",
@@ -81,8 +85,8 @@
       "light": "#d9b2f6"
     },
     "borderActive": {
-      "dark": "violet500",
-      "light": "violet600"
+      "dark": "pink500",
+      "light": "pink700"
     },
     "borderSubtle": {
       "dark": "violet700",
@@ -141,8 +145,8 @@
       "light": "lightText"
     },
     "markdownHeading": {
-      "dark": "violet500",
-      "light": "violet600"
+      "dark": "pink600",
+      "light": "pink700"
     },
     "markdownLink": {
       "dark": "blue500",
@@ -221,8 +225,8 @@
       "light": "#245cb0"
     },
     "syntaxOperator": {
-      "dark": "violet500",
-      "light": "violet600"
+      "dark": "pink600",
+      "light": "pink700"
     },
     "syntaxPunctuation": {
       "dark": "textMain",
